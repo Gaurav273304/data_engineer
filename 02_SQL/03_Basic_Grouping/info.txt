@@ -1,0 +1,4 @@
+This folder covers the following topics
+1.Aggregate functions(Sum,avg etc)
+2.Group by
+3.Having

@@ -1,0 +1,6 @@
+This folder covers the following topics
+1.select
+2.Distinct
+3.count
+4.Order by
+5.limit

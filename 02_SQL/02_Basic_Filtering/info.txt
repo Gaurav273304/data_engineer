@@ -1,0 +1,7 @@
+This folder covers the following topics
+1.where
+2.where operators
+3.Where with And OR
+4.Between
+5.In
+6.Like
